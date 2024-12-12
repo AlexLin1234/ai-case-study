@@ -71,6 +71,7 @@ Inworld AI's success and innovation are supported by multiple sources and partne
 
 - **Funding Sources:** Backed by major investors such as **Microsoft’s M12**, **Disney Accelerator**, **Bitkraft Ventures**, and **Kleiner Perkins** ([TechCrunch](https://techcrunch.com/2022/08/23/inworld-ai-raises-50m/)).
 - **Industry Adoption:** Collaborations with **Disney** and **Microsoft** to enhance virtual characters ([VentureBeat](https://venturebeat.com/games/inworld-ai-raises-50m-for-npcs-in-metaverse-and-games/)).
+- **InWorld AI Website** ([InWorld AI](https://inworld.ai/)).
 
 > "Inworld AI is pioneering AI characters that respond in real-time, bringing lifelike interactions to virtual worlds." — *VentureBeat*
 
